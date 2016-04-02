@@ -1,2 +1,2 @@
 # Fingertip-Tracking
-A Python script to track your finger using webcam
+A Python script to track your finger position using webcam
